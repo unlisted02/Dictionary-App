@@ -1,0 +1,34 @@
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .App {
+        width: 450px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .App {
+        width: 600px;
+    }
+
+    .dropdown svg,
+    .dropdown-list li,
+    .switcher,
+    button {
+        cursor: pointer;
+        transition: all .3s ease-in-out;
+    }
+    .word-audio button:hover {
+        background-color: #a445ed;
+    }
+    .word-audio button:hover svg path {
+        color: #fff;
+    }
+}
+
+/*4k devices (1440px and up)*/
+@media only screen and (min-width: 1440px) {
+    .App {
+        width: 700px;
+    }
+}
