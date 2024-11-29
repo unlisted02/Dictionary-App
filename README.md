@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://dictionary.vercel.app/](https://dictionary.vercel.app/)
+- Live Site URL: [https://dictionary-d1vnui0ud-unlisteds-projects.vercel.app)](https://dictionary-d1vnui0ud-unlisteds-projects.vercel.app)
 
 ## My process
 
@@ -62,7 +62,7 @@ Users should be able to:
 
 ## Installation
 
-- clone the repo `git clone https://github.com/unlisted02/dictionary-web-app.git`.
+- clone the repo `git clone https://github.com/unlisted02/Dictionary-App.git`.
 - install dependencies `npm install`.
 - start project with `npm start`.
 - it can be viewed in the browser at `http://localhost:3000`.
